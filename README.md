@@ -1,0 +1,2 @@
+# ChartJSChangeLegendOnInnerWidth
+Created with CodeSandbox
